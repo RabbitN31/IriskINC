@@ -29,6 +29,9 @@
 .card:hover {
   transform: translateY(-0.3rem);
 }
-footer {
+/* footer {
   padding: 0 10%;
+} */
+.accordion-body {
+  line-height: 1.8;
 }
